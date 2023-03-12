@@ -1,3 +1,5 @@
 # Test_Simple_Invoices
 
-Add read me
+# First run the command: yarn all
+
+# After running, run: yarn ios => to run the app
